@@ -5,7 +5,6 @@ This is a simple Flask web application for image classification using a TensorFl
 ## Project Structure
 
 - `app/`: Contains the Flask application files.
-  - `static/`: Static files such as stylesheets and images.
   - `templates/`: HTML templates for rendering web pages.
   - `__init__.py`: Initializes the Flask app.
   - `routes.py`: Defines URL routes and view functions.
@@ -18,8 +17,6 @@ This is a simple Flask web application for image classification using a TensorFl
 - `modeling.ipynb`: Jupyter Notebook for creating and training the TensorFlow model.
 
 - `run.py`: Entry point for running the Flask app.
-
-- `config.py`: Configuration settings for the project.
 
 - `requirements.txt`: Lists required Python packages for the project.
 
